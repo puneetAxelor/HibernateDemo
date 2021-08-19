@@ -1,0 +1,3 @@
+rootProject.name = 'MultiWeb'
+include ":api", ":common", ":app"
+
